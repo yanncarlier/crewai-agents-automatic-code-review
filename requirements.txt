@@ -1,0 +1,10 @@
+crewai
+crewai-tools
+dill
+python-dotenv
+pydantic
+requests
+httpx
+openai
+
+# dlai_grader  # only required for unittests.py (DeepLearning.AI lab grader)
