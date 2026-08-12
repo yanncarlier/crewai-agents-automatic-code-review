@@ -1,10 +1,11 @@
-crewai
-crewai-tools
-dill
-python-dotenv
-pydantic
-requests
-httpx
-openai
+crewai==0.11.2
+crewai-tools==0.0.1
+dill==0.4.1
+python-dotenv==1.2.2
+pydantic==2.13.4
+requests==2.34.2
+httpx==0.28.1
+openai==1.109.1
 
-# dlai_grader  # only required for unittests.py (DeepLearning.AI lab grader)
+# Only required by unittests.py (DeepLearning.AI lab grader). Uncomment to install:
+# dlai_grader
